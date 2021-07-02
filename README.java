@@ -2,6 +2,7 @@
 Java-Oracle_Portfolio_RubenGavidia0x
 
 ```
+´´´
 /*2.26 (Multiples) Write an
 application that reads two
 integers, determines whether
@@ -28,6 +29,7 @@ public class NumberMultiple {
       System.out.printf(" El numero %d NO es multiplo de %d ", numero1, numero2 );
   }
 }
+´´´
 ```
 
 ```
