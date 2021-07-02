@@ -1,7 +1,6 @@
 # Java_Portfolio_RubenGavidia0x
 Java-Oracle_Portfolio_RubenGavidia0x
 
-```
 ´´´
 /*2.26 (Multiples) Write an
 application that reads two
@@ -30,7 +29,6 @@ public class NumberMultiple {
   }
 }
 ´´´
-```
 
 ```
 import java.util.Scanner;
